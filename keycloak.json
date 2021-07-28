@@ -1,0 +1,8 @@
+{
+  "realm": "example",
+  "auth-server-url": "http://keycloak:8080/auth/",
+  "ssl-required": "external",
+  "resource": "amp-dashboard",
+  "public-client": true,
+  "confidential-port": 0
+}
